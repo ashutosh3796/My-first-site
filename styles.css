@@ -1,0 +1,110 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family:sans-serif;
+}
+ h1{
+   font-family: 'Sacramento';
+   width: 20%;
+   margin: 0 auto 0 auto;
+   position: relative;
+   color: #B93160;
+
+  font-size: 3.2rem;
+ }
+h2{font-family: 'Sacramento';
+font-size: 50px;
+color: #790252;
+
+}
+p{
+  position: relative;
+  top: 52px;
+  font-size: 1rem;
+}
+
+.top-container{
+  background-color: #C6EBC5;
+  padding-top: 100px;
+padding-bottom: 100px;
+}
+.middle-container{
+  background: #A1C298;
+  height: 500px;
+  width:100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.bottom-container{
+  background: #3D8361;
+  height: 400px;
+  width: 100%;
+  padding-top:100px;
+  padding-bottom:100px;
+  }
+.clou1{
+  right: 80px;
+  bottom: 20px;
+}
+
+ .cloud2{
+   position: absolute;
+   left: 200px;
+ }
+
+ .cloud1{
+   position: absolute;
+   right: 300px;
+ }
+ .what{
+   font-size: 40px;
+   text-align: center;
+ }
+h2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: normal;
+}
+h3{
+  color: #D75281;
+  font-weight: normal;
+  line-height:normal;
+}
+p{
+  color: #2C3639;
+}
+.img2{
+  width: 250px;
+  height: 300px;
+  position: absolute;
+  left:20px;
+  top:900px;
+}
+.img3{
+  width:250px;
+  height: 50px;
+  position: absolute;
+  right:550px;
+  top: 1900px;
+
+}
+
+.a{
+  text-align: left;
+  margin-left: 40px;
+  float: left;
+position: absolute;
+top: 1000px;
+
+}
+
+.b{
+  text-align: left;
+  margin-right: 40px;
+  position: absolute;
+  top: 1000px;
+  left: 1000px;
+
+}
